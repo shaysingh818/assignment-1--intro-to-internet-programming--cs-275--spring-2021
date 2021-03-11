@@ -34,3 +34,15 @@ p1 {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+.header-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: white;
+  background-color: #17b542;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 20px;
+}
