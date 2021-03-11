@@ -15,6 +15,10 @@ p1 {
 	color: white; 
 }
 
+b {
+	font-weight: bold; 
+}
+
 
 /*  Header image, Ramones backdrop */
 .header-image {
@@ -50,4 +54,10 @@ p1 {
 .header-text button:hover {
   background-color: #555;
   color: white;
+}
+
+
+/*  List styling for the songs  */
+ul{
+  text-align: center;
 }
