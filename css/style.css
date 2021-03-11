@@ -46,3 +46,8 @@ p1 {
   cursor: pointer;
   border-radius: 20px;
 }
+
+.header-text button:hover {
+  background-color: #555;
+  color: white;
+}
