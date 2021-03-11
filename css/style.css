@@ -65,7 +65,17 @@ ul{
   text-align: center;
 }
 
+li{
+  color: white ; 
+}
+
 article {
 	margin: 50px; 
-	font-size: 17px; 
+  font-size: 17px; 
+  color: white; 
+}
+
+h3{
+  color: white; 
+  text-align: center;
 }
