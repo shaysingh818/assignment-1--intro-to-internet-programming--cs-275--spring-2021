@@ -61,3 +61,8 @@ b {
 ul{
   text-align: center;
 }
+
+article {
+	margin: 50px; 
+	font-size: 17px; 
+}
